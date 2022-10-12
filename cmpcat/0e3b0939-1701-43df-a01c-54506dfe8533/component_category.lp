@@ -1,0 +1,10 @@
+(librepcb_component_category 0e3b0939-1701-43df-a01c-54506dfe8533
+ (name "Piezo")
+ (description "Piezo elements, buzzers, reproductors")
+ (keywords "")
+ (author "EdizonTN")
+ (version "0.1")
+ (created 2022-05-24T22:50:23Z)
+ (deprecated false)
+ (parent 8ca4f9fb-3dd3-4c1e-a097-6601b437bbc6)
+)

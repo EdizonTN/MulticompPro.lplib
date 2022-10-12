@@ -1,0 +1,10 @@
+(librepcb_library e85b5c12-585a-473c-a26b-2436155dc9c7
+ (name "Multicomp Pro")
+ (description "This is an unofficial testing LibrePCB library. Multicomp Pro\nSound devices")
+ (keywords "")
+ (author "EdizonTN")
+ (version "0.1")
+ (created 2022-06-05T13:38:02Z)
+ (deprecated false)
+ (url "")
+)

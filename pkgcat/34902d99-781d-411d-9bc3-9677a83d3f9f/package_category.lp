@@ -1,0 +1,10 @@
+(librepcb_package_category 34902d99-781d-411d-9bc3-9677a83d3f9f
+ (name "Multicomp Pro")
+ (description "Sound devices")
+ (keywords "")
+ (author "EdizonTN")
+ (version "0.1")
+ (created 2022-06-05T14:00:06Z)
+ (deprecated false)
+ (parent 194951ec-03dd-412a-9828-70c40bbdd22d)
+)
